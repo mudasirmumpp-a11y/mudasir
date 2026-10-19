@@ -1,0 +1,6 @@
+{
+  "name": "Decora Home - Luxury Home Decoration & Interior Accents",
+  "description": "Discover timeless decorative pieces, handcrafted ceramic vases, ambient lamps, and modern wall decor that bring warmth and elegance to your space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
